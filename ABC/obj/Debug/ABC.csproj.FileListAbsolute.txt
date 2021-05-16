@@ -1,0 +1,6 @@
+D:\SoftServe\Інд\C#\HM\ABC\bin\Debug\ABC.exe.config
+D:\SoftServe\Інд\C#\HM\ABC\bin\Debug\ABC.exe
+D:\SoftServe\Інд\C#\HM\ABC\bin\Debug\ABC.pdb
+D:\SoftServe\Інд\C#\HM\ABC\obj\Debug\ABC.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\ABC\obj\Debug\ABC.exe
+D:\SoftServe\Інд\C#\HM\ABC\obj\Debug\ABC.pdb

@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\Person\bin\Debug\Person.exe.config
+D:\SoftServe\Інд\C#\HM\Person\bin\Debug\Person.exe
+D:\SoftServe\Інд\C#\HM\Person\bin\Debug\Person.pdb
+D:\SoftServe\Інд\C#\HM\Person\obj\Debug\Person.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\Person\obj\Debug\Person.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\Person\obj\Debug\Person.exe
+D:\SoftServe\Інд\C#\HM\Person\obj\Debug\Person.pdb

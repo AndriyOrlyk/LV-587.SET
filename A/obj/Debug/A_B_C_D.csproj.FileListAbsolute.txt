@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\A\bin\Debug\A.exe.config
+D:\SoftServe\Інд\C#\HM\A\bin\Debug\A.exe
+D:\SoftServe\Інд\C#\HM\A\bin\Debug\A.pdb
+D:\SoftServe\Інд\C#\HM\A\obj\Debug\A_B_C_D.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\A\obj\Debug\A.exe
+D:\SoftServe\Інд\C#\HM\A\obj\Debug\A.pdb
+D:\SoftServe\Інд\C#\HM\A\obj\Debug\A_B_C_D.csprojAssemblyReference.cache

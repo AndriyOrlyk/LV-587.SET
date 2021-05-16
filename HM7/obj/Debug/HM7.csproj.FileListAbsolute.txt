@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\HM7\bin\Debug\HM7.exe.config
+D:\SoftServe\Інд\C#\HM\HM7\bin\Debug\HM7.exe
+D:\SoftServe\Інд\C#\HM\HM7\bin\Debug\HM7.pdb
+D:\SoftServe\Інд\C#\HM\HM7\obj\Debug\HM7.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\HM7\obj\Debug\HM7.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\HM7\obj\Debug\HM7.exe
+D:\SoftServe\Інд\C#\HM\HM7\obj\Debug\HM7.pdb

@@ -1,0 +1,6 @@
+circle1
+circle2
+circle3
+squAre1
+square2
+square3

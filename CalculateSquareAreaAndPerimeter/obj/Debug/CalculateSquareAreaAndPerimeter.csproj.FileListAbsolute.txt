@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\bin\Debug\CalculateSquareAreaAndPerimeter.exe.config
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\bin\Debug\CalculateSquareAreaAndPerimeter.exe
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\bin\Debug\CalculateSquareAreaAndPerimeter.pdb
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\obj\Debug\CalculateSquareAreaAndPerimeter.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\obj\Debug\CalculateSquareAreaAndPerimeter.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\obj\Debug\CalculateSquareAreaAndPerimeter.exe
+D:\SoftServe\Інд\C#\HM\CalculateSquareAreaAndPerimeter\obj\Debug\CalculateSquareAreaAndPerimeter.pdb

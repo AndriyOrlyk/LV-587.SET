@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\bin\Debug\CalculateCircleLengthAreaVolume.exe.config
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\bin\Debug\CalculateCircleLengthAreaVolume.exe
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\bin\Debug\CalculateCircleLengthAreaVolume.pdb
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\obj\Debug\CalculateCircleLengthAreaVolume.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\obj\Debug\CalculateCircleLengthAreaVolume.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\obj\Debug\CalculateCircleLengthAreaVolume.exe
+D:\SoftServe\Інд\C#\HM\CalculateCircleLengthAreaVolume\obj\Debug\CalculateCircleLengthAreaVolume.pdb

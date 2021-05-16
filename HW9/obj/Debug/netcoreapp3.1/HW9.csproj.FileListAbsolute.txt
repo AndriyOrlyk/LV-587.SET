@@ -1,0 +1,13 @@
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.AssemblyInfoInputs.cache
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.AssemblyInfo.cs
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.exe
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.deps.json
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.runtimeconfig.json
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.runtimeconfig.dev.json
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.dll
+D:\SoftServe\Інд\C#\HM\HW9\bin\Debug\netcoreapp3.1\HW9.pdb
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.dll
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.pdb
+D:\SoftServe\Інд\C#\HM\HW9\obj\Debug\netcoreapp3.1\HW9.genruntimeconfig.cache

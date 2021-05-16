@@ -1,0 +1,13 @@
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.exe
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.deps.json
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.json
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.runtimeconfig.dev.json
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.dll
+D:\SoftServe\Інд\C#\HM\HW5\bin\Debug\netcoreapp3.1\HW5.pdb
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfoInputs.cache
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.AssemblyInfo.cs
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.dll
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.pdb
+D:\SoftServe\Інд\C#\HM\HW5\obj\Debug\netcoreapp3.1\HW5.genruntimeconfig.cache

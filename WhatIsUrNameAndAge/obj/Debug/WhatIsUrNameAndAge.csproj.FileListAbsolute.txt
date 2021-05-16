@@ -1,0 +1,7 @@
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\bin\Debug\WhatIsUrNameAndAge.exe.config
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\bin\Debug\WhatIsUrNameAndAge.exe
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\bin\Debug\WhatIsUrNameAndAge.pdb
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\obj\Debug\WhatIsUrNameAndAge.csprojAssemblyReference.cache
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\obj\Debug\WhatIsUrNameAndAge.csproj.CoreCompileInputs.cache
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\obj\Debug\WhatIsUrNameAndAge.exe
+D:\SoftServe\Інд\C#\HM\WhatIsUrNameAndAge\obj\Debug\WhatIsUrNameAndAge.pdb
