@@ -1,0 +1,7 @@
+TaxNumber: 1, FirstName: Andrew, LastName: Orlyk, BirthDate: 03/12/1999
+TaxNumber: 2, FirstName: Yuriy, LastName: Frolov, BirthDate: 16/06/2003
+TaxNumber: 3, FirstName: Vlad, LastName: Klimenko, BirthDate: 17/09/1992
+TaxNumber: 4, FirstName: Ihor, LastName: Vovk, BirthDate: 01/12/1995
+TaxNumber: 5, FirstName: Ivan, LastName: Mart, BirthDate: 10/03/1990
+TaxNumber: 8, FirstName: Artem, LastName: Podol, BirthDate: 08/03/1960 EmploymentDate: 25/06/2021 Salary: 800
+TaxNumber: 9, FirstName: Artem, LastName: Pod, BirthDate: 08/03/1960 EmploymentDate: 25/06/2021 Salary: 800
